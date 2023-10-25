@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c76ecd&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dc81e2&height=110&section=header"/>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=b897ff&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hi,+I'm+Eduarda+Melo!;Welcome!;:D)](https://git.io/typing-svg)
