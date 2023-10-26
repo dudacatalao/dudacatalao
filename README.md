@@ -22,8 +22,8 @@
 ### :zap: Github Stats
 <div align="center">
   <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudacatalao&show_icons=true&count_private=true&hide_border=true&title_color=2448AA&icon_color=785692&text_color=2283A2&bg_color=0d1117" alt="Eduarda Catalão github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacatalao&layout=compact&hide_border=true&title_color=2448AA&text_color=2283A2&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudacatalao&show_icons=true&count_private=true&hide_border=true&title_color=E078EF&icon_color=785692&text_color=2283A2&bg_color=0d1117" alt="Eduarda Catalão github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacatalao&layout=compact&hide_border=true&title_color=E078EF&text_color=2283A2&bg_color=0d1117" />
    </div>
  </div>
 
