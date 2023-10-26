@@ -8,13 +8,13 @@
 
 <div align="left">
  <h3>About me</h3>
-
+  
+  ### Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH
+ 
 
   - 📚 I’m currently learning Python and Java.
   - 🎓 I'm currently studying Systems development.
   - 💻 I'm interested in back end.
-  <br>
-    <p>Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH</p>
   <br>
    
   ![friends-series-characters](friends.gif)
@@ -26,6 +26,17 @@
 </div>
 
 <br>
+
+<div align="center">
+	<img
+		alt="Snake animation"
+		src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+	/>
+	<img
+		alt="Snake animation"
+		src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+	/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
