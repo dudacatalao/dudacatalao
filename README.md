@@ -7,7 +7,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h3>About me </h3>
+ <h3>About me</h3>
+
+
+  - 📚 I’m currently learning Python and Java.
+  - 🎓 I'm currently studying Systems development.
+  - 💻 I'm interested in back end.
   <br>
     <p>Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH</p>
   <br>
