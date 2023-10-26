@@ -14,15 +14,13 @@
 
   - 📚 I’m currently learning Python and Java.
   - 🎓 I'm currently studying Systems development.
-  - 💻 I'm interested in back end.
+  - 💻 I'm interested in back-end.
   <br>
-   
-  ![friends-series-characters](friends.gif)
 
 <br>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/isabelli-marques-615b79210"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/maria-eduarda-de-melo-catal%C3%A3o/)" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/maria-eduarda-de-melo-catal%C3%A3o/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/maria-eduarda-de-melo-catal%C3%A3o/)" alt="LinkedIn" /></a>&nbsp;
 </div>
 
 <br>
