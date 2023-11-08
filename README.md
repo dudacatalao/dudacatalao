@@ -32,11 +32,11 @@
 <div align="center">
 	<img
 		alt="Snake animation"
-		src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+		src="https://github.com/dudacatalao/dudacatalao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
 	/>
 	<img
 		alt="Snake animation"
-		src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+		src="https://github.com/dudacatalao/dudacatalao/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
 	/>
 </div>
 
