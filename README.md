@@ -26,19 +26,3 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacatalao&layout=compact&hide_border=true&title_color=E078EF&text_color=2283A2&bg_color=0d1117" />
    </div>
  </div>
-
-<br />
-
-<div align="center">
-	<img
-		alt="Snake animation"
-		src="https://github.com/dudacatalao/dudacatalao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
-	/>
-	<img
-		alt="Snake animation"
-		src="https://github.com/dudacatalao/dudacatalao/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-	/>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
