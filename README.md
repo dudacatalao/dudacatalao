@@ -14,7 +14,7 @@
 
   - 📚 I’m currently learning Python and Java.
   - 🎓 I'm currently studying Systems development.
-  - 💻 I'm interested in back-end.
+  - 💻 I'm interested in front-end.
   <br>
 
 <br>
