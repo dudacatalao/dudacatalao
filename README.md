@@ -7,19 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="left">
- <h3>About me</h3>
-  
-  #### Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH
- 
 
-  - 📚 I’m currently learning Python and Java.
-  - 🎓 I'm currently studying Systems development.
-  - 💻 I'm interested in front-end.
-  <br>
-
-<br>
-
-### :zap: Github Stats
 <div align="center">
   <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudacatalao&show_icons=true&count_private=true&hide_border=true&title_color=f197f4&icon_color=f197f4&text_color=2283A2&bg_color=0d1117" alt="Eduarda Catalão github stats" /> 
