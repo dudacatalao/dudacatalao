@@ -10,8 +10,8 @@
 
 <div align="center">
   <div align="center flex">
-    <img width="80%" height="170px" src="https://github-readme-stats.vercel.app/api?username=dudacatalao&show_icons=true&count_private=true&hide_border=true&title_color=c77dff&icon_color=e0aaff&text_color=2283A2&bg_color=0d1117" alt="Eduarda Catalão github stats" /> 
-    <img width="80%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacatalao&layout=compact&hide_border=true&title_color=c77dff&text_color=e0aaff&bg_color=0d1117" />
+    <img width="90%" height="170px" src="https://github-readme-stats.vercel.app/api?username=dudacatalao&show_icons=true&count_private=true&hide_border=true&title_color=c77dff&icon_color=e0aaff&text_color=2283A2&bg_color=0d1117" alt="Eduarda Catalão github stats" /> 
+    <img width="90%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacatalao&layout=compact&hide_border=true&title_color=c77dff&text_color=e0aaff&bg_color=0d1117" />
    </div>
 </div>
 
